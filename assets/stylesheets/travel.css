@@ -69,7 +69,7 @@ target the elements with a class of card and set the following:
 */
 .card {
   width: 20%;
-  height: 405px;
+  height: 405px;          /* changed to view a closer approximation of assigned image on local machine */ 
   margin:  2.5%;
   padding-top: 15%;
   float: left;
@@ -166,7 +166,7 @@ nav {
   - left and right padding to 15px
 */
    .nav-link{      
-    display: inline-block;                                    /*come back to this -- links same line*/
+    display: inline-block;                                    /*not sure if this is the correct use*/
     padding-top: 5px;
     padding-bottom: 5px;
     padding-left: 15px;
